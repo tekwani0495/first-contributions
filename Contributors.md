@@ -69,6 +69,7 @@
 - [Chris Boujoukos](https://github.com/cboujoukos)
 - [Farrell Seah](https://github.com/farrellseah)
 - [Eyuel Berga Woldemichael](https://github.com/eyuelberga/)
+- [Kapil Tekwani](https://github.com/tekwani0495)
 - [Jaspreet Singh ](https://github.com/JustFact)
 - [Stephan Lyons](https://github.com/LyonsStephan/)
 - [Prajwal Shetty](https://github.com/Prajwal041)
