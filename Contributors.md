@@ -26,6 +26,7 @@
 - [Simran Bhake](https://github.com/ParanoidAndroid19)
 - [Ricky Lu](https://github.com/RCLU30)
 - [Marco Nascimento Jr](https://github.com/MarcoNasc)
+- [Kapil tekwani](https://github.com/tekwani0495)
 - [Sachin Singh](https://github.com/sacsachin)
 - [Anton Lytason](https://github.com/MaZyAkAkUn)
 - [Rafia Anwar](https://github.com/rafia95)
